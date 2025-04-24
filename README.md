@@ -1,2 +1,6 @@
 # conflict
-cambio en la rama principal
+<<<<<<< HEAD
+cambio en el repositorio resolucion conflicto
+=======
+cambio en el repositorio resolucion conflicto
+>>>>>>> feature-branch
